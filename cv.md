@@ -7,8 +7,8 @@
         
 ## my contacts ##       
  - Phone: +7 951 458 3977          
- - E-mail: nataly.poida@gmail.com
- - Telegram: https://t.me/natalypoida
+ - E-mail: (nataly.poida@gmail.com)
+ - Telegram: (https://t.me/natalypoida)
  
 ## my projects ##
  - [Audiocall](https://audiocall.netlify.app/)           
@@ -18,7 +18,7 @@
  - [Quick quiz](https://quick-quizz.netlify.app)          
              
 ### summary ###
-I am a novice front-end developer. In June 2020 I completed the “JavaScript Development Online” course at the RSSchool. There Ilearned how to build adaptive web pages and web applications, and how to work with APIs and Git. I keep improving my skills through self-education by watching relevant YouTube channels, and readingpopular programming blogs and books. For example Youtube channels: Vladilen Minin, DesignCourse,RSSchool, Glo Academy, Web Dev Simplified;blogs: Medium Daily Digest, FreeCodeCamp, Community-Z, GeekBrains. I improve the quality of my code every day by working on new self-assigned projects, taking online quizzes, and participating in short intensive online lessons. 
+I am a novice front-end developer. In June 2020 I completed the “JavaScript Development Online” course at the RSSchool. There I learned how to build adaptive web pages and web applications, and how to work with APIs and Git. I keep improving my skills through self-education by watching relevant YouTube channels, and readingpopular programming blogs and books. For example Youtube channels: Vladilen Minin, DesignCourse, RSSchool, Glo Academy, Web Dev Simplified; blogs: Medium Daily Digest, FreeCodeCamp, Community-Z, GeekBrains. I improve the quality of my code every day by working on new self-assigned projects, taking online quizzes, and participating in short intensive online lessons. 
 
 ### education ###
 
@@ -94,7 +94,7 @@ function selectAnswer(element) {
   }
 }
 ```
-English Level B1 (according to the test results at the Epam Trainig Centre)
+**English Level B1** (according to the test results at the Epam Trainig Centre)
           
 **Github:**[https://github.com/natalypoida](https://github.com/natalypoida)
           

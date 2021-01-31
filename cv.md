@@ -7,8 +7,8 @@
         
 ## my contacts ##       
  - Phone: +7 951 458 3977          
- - E-mail: (nataly.poida@gmail.com)
- - Telegram: (https://t.me/natalypoida)
+ - E-mail: [nataly.poida@gmail.com](nataly.poida@gmail.com)
+ - Telegram: [https://t.me/natalypoida](https://t.me/natalypoida)
  
 ## my projects ##
  - [Audiocall](https://audiocall.netlify.app/)           
